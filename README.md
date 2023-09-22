@@ -2,7 +2,7 @@
 This is a repo template for course 706_Data_Engineering Week 4 Mini Project. I edit the .yml file, change the name into "Test Multiple Python Versions" and add matrix of multiple versions. Finally, I use Action to run Makefile and got a 100% pass. 
 
 # Purpose
-Build matrix for multiple python versions tests in workflow.
+Build matrix for at least 3 different python versions tests in workflow.
 
 ## Preparation 
 1. open codespaces 
