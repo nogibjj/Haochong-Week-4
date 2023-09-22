@@ -1,4 +1,4 @@
-name: Test Multiple Python Versions
+name: Matrix Build for Test Multiple Python Versions
 on:
   push:
     branches: [ "main" ]
